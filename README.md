@@ -1,8 +1,9 @@
 # Excel_Project
 To view Project:
- * Click on Excel project file
- * Click on .xlsx file
+ * Click on indian store data analysis.xlsx file
  * Download file
+ * View project on MsExcel/workbook/MS 365
 
 To view Insights of Indian Store 
  * Click on Insights of indian.png file.
+ * view picture
